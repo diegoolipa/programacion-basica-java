@@ -32,6 +32,7 @@ public class AperacionesConCadenas {
 //        for(int i = 0 ; i < NombreCortado.length ; i++){
 //            System.out.println(NombreCortado[i]);
 //        }
+        
         for(String nombre : NombreCortado){
             System.out.println(nombre);
         }
